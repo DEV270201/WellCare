@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+## Some glimpse of our project!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### SignUp Page
+![image](https://github.com/DEV270201/WellCare/assets/56965636/a511aa25-7948-46a5-a266-9d9b5928767d)
 
-## Available Scripts
+### Login Page
+![image](https://github.com/DEV270201/WellCare/assets/56965636/a3eaff19-833e-4028-8b8f-45874b4a0cb1)
 
-In the project directory, you can run:
+### Doctor SignUp Page - Step 1
+![image](https://github.com/DEV270201/WellCare/assets/56965636/e60933e8-eb2f-456c-a250-b78ef3f7cb80)
 
-### `npm start`
+### Step 2
+![image](https://github.com/DEV270201/WellCare/assets/56965636/48898183-50fb-48ce-8694-4aed1a6c7298)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Step 3
+![image](https://github.com/DEV270201/WellCare/assets/56965636/61c3d8e2-1681-45ef-bc26-eff642d31b5d)
+There are in total 6 steps to complete for the registeration process for an expert on our portal
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Verification Link
+![image](https://github.com/DEV270201/WellCare/assets/56965636/4bb30a8a-3627-4075-a3f2-6b34bdb6dc85)
 
-### `npm test`
+### Verification Mail
+![image](https://github.com/DEV270201/WellCare/assets/56965636/886d8a2f-0f27-40e7-83cf-1046a28a1095)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Account Verified
+![image](https://github.com/DEV270201/WellCare/assets/56965636/3a1eb046-21d3-4bfe-a8bf-78b66dd68a44)
 
-### `npm run build`
+### Home Page
+![image](https://github.com/DEV270201/WellCare/assets/56965636/ce805a21-0e9a-446d-a76a-6df7cb9323b5)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### FAQs
+![image](https://github.com/DEV270201/WellCare/assets/56965636/bb6421d3-b351-4ebe-9d8f-b5a2f15f031b)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Chat
+![image](https://github.com/DEV270201/WellCare/assets/56965636/dafcee00-81a5-4853-9a49-abd3246d84d2)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
