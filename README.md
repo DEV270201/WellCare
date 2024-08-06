@@ -1,3 +1,5 @@
+TechStack: ReactJS, NodeJS, ExpressJS, MongoDB, Socket.IO, TailwindCSS
+
 ## Some glimpse of our project!
 
 ### SignUp Page
